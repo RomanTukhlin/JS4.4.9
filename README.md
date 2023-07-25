@@ -11,7 +11,7 @@
 <hr>
 <figure>
   <img src="./image3.png">
-   <figcaption>add token img environment variables.</figcaption>
+   <figcaption>add token in environment variables.</figcaption>
 </figure>
 <hr>
 <figure>
